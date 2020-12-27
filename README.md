@@ -1,4 +1,4 @@
 # mess
 
-admin account : admin
+admin account : admin;
 pass : admin
